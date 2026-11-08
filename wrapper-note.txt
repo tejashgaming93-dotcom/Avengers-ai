@@ -1,0 +1,2 @@
+No gradle-wrapper.jar is bundled. Use a system Gradle 8.7+ (`gradle assembleDebug`),
+or run `gradle wrapper --gradle-version 8.7` once to generate ./gradlew.
