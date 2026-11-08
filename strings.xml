@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Avengers AI</string>
+    <string name="a11y_description">Lets Tony press Back, Home, Recents and scroll the screen when you ask him to. It does not read your screen content.</string>
+</resources>
